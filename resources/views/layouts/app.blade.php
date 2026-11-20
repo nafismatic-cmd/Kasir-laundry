@@ -20,7 +20,7 @@
     <header class="topbar">
 
         <a href="{{ route('dashboard') }}" class="brand">
-            <div class="brand-icon">🪣</div>
+            <div class="brand-icon">🧺</div>
             <span>Laundry</span>
         </a>
 
